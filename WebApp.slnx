@@ -1,6 +1,6 @@
 <Solution>
   <Project Path="WebApp.Application/WebApp.Application.csproj" Id="c23d6e12-5cb4-4131-aed8-4572f9d99e01" />
-  <Project Path="WebApp.Domain/WebApp.Domain.csproj" Id="df7edf5f-1437-488d-aea2-d4525b2aa971" />
+  <Project Path="WebApp.Domain/WebApp.Domain.csproj" Id="12938296-edc9-47a6-a968-3b011b7925d8" />
   <Project Path="WebApp.Infrastructure/WebApp.Infrastructure.csproj" Id="4e29c8a0-53b9-4193-8ac3-d0139c7ed3b4" />
   <Project Path="WebApp/WebApp.API.csproj" />
 </Solution>
