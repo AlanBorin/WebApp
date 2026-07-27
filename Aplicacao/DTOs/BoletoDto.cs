@@ -37,7 +37,7 @@ namespace Aplicacao.DTOs
         [Required(ErrorMessage = "A data de vencimento é obrigatória.")]
         public DateTime DataVencimento { get; set; }
 
-        public string Observacao { get; set; } = string.Empty; // não obrigatório
+        public string Observacao { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "O BancoId é obrigatório.")]
         public int BancoId { get; set; }
